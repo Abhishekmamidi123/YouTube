@@ -3,6 +3,10 @@
 - This repository will contain files that are used in my YouTube channel.
 - Do check out my channel and subscribe if you like it.
 
+Playlists:
+1. [Data Science Guide for freshers and enthusiasts](https://www.youtube.com/watch?v=JaXTKz2kezQ&list=PLX-qVd8z5JGc0ntwNB-_npdTvDECCgIuE)
+2. [Getting started with PySpark](https://www.youtube.com/playlist?list=PLX-qVd8z5JGeolxBVY4APHUnkbFEHJqu5)
+
 Videos:
 1. [Channel Introduction](https://www.youtube.com/watch?v=a32IMlf1kio)
 2. [Introduction to Jupyter notebook, Google Colab and Kaggle Notebooks](https://www.youtube.com/watch?v=7cCfFSTkDrs)
@@ -21,9 +25,5 @@ Videos:
 15. [How to filter companies when applying for Data Science Jobs](https://www.youtube.com/watch?v=zvdwo2KCAHE)
 16. [5 ways to apply for OFF-CAMPUS Data Science jobs as a Fresher](https://www.youtube.com/watch?v=Bf7GifiYLx4&t=2s)
 17. [Getting started with PySpark - Course Introduction](https://www.youtube.com/watch?v=2NrWSL_qh3A&t=21s)
-
-Playlists:
-1. [Data Science Guide for freshers and enthusiasts](https://www.youtube.com/watch?v=JaXTKz2kezQ&list=PLX-qVd8z5JGc0ntwNB-_npdTvDECCgIuE)
-2. [Getting started with PySpark](https://www.youtube.com/playlist?list=PLX-qVd8z5JGeolxBVY4APHUnkbFEHJqu5)
 
 More to come. Stay tuned :)
