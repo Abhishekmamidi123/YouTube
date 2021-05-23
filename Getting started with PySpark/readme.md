@@ -3,3 +3,4 @@
 1. [Quick Introduction to Basics of Apache Spark and PySpark](https://www.youtube.com/watch?v=82-cEHit1Uk)
 2. [Setting up PySpark environment on Google Colab](https://www.youtube.com/watch?v=r5PbUuLUZiE)
 3. [Conversion of Data Frames | Spark to Pandas & Pandas to Spark](https://youtu.be/EOZtqFTpkTQ)
+4. [Summarizing a DataFrame in PySpark | min, max, count, percentile, schema](https://youtu.be/_bK7m7rp1QU)
