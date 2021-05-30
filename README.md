@@ -25,5 +25,11 @@ Videos:
 15. [How to filter companies when applying for Data Science Jobs](https://www.youtube.com/watch?v=zvdwo2KCAHE)
 16. [5 ways to apply for OFF-CAMPUS Data Science jobs as a Fresher](https://www.youtube.com/watch?v=Bf7GifiYLx4&t=2s)
 17. [Getting started with PySpark - Course Introduction](https://www.youtube.com/watch?v=2NrWSL_qh3A&t=21s)
+18. [Quick Introduction to Basics of Apache Spark and PySpark](https://www.youtube.com/watch?v=82-cEHit1Uk)
+19. [Setting up PySpark environment on Google Colab](https://www.youtube.com/watch?v=r5PbUuLUZiE)
+20. [Conversion of Data Frames | Spark to Pandas & Pandas to Spark](https://youtu.be/EOZtqFTpkTQ)
+21. [Summarizing a DataFrame in PySpark | min, max, count, percentile, schema](https://youtu.be/_bK7m7rp1QU)
+22. [PySpark Transformations and Actions | show, count, collect, distinct, withColumn, filter, groupby](https://www.youtube.com/watch?v=ROktlHk
+
 
 More to come. Stay tuned :)
