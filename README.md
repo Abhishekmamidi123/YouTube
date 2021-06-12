@@ -29,7 +29,7 @@ Videos:
 19. [Setting up PySpark environment on Google Colab](https://www.youtube.com/watch?v=r5PbUuLUZiE)
 20. [Conversion of Data Frames | Spark to Pandas & Pandas to Spark](https://youtu.be/EOZtqFTpkTQ)
 21. [Summarizing a DataFrame in PySpark | min, max, count, percentile, schema](https://youtu.be/_bK7m7rp1QU)
-22. [PySpark Transformations and Actions | show, count, collect, distinct, withColumn, filter, groupby](https://www.youtube.com/watch?v=ROktlHk)
+22. [PySpark Transformations and Actions | show, count, collect, distinct, withColumn, filter, groupby](https://www.youtube.com/watch?v=ROktlHkcVBY)
 23. [User Defined Functions in PySpark](https://youtu.be/TRhFkywDxR8)
 24. [Modeling in PySpark using Spark ML on Colab | Python](https://youtu.be/UR2zQwwoP08)
 
