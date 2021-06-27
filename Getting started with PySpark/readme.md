@@ -7,3 +7,4 @@
 5. [PySpark Transformations and Actions | show, count, collect, distinct, withColumn, filter, groupby](https://www.youtube.com/watch?v=ROktlHkcVBY)
 6. [User Defined Functions in PySpark](https://youtu.be/TRhFkywDxR8)
 7. [Modeling in PySpark using Spark ML on Colab | Python](https://youtu.be/UR2zQwwoP08)
+8. [Build ML Pipelines using SparkML in PySpark | Python | Google Colab](https://youtu.be/UR2zQwwoP08)
